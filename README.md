@@ -1,6 +1,6 @@
-### Hi I'm Jaeho 🐯
+### Hi I'm Jaeho 👋
 
-**안녕하세요, 협업을 통해 더 성장하는 iOS 엔지니어를 지향하는 이재호, 호랑입니다.**
+**안녕하세요, 협업을 통해 더 성장하는 iOS 엔지니어를 지향하는 이재호, 호랑입니다.🐯**
 
 I studied Architecture Engineering at University of Seoul 🎓
 
