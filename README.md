@@ -20,9 +20,13 @@ VStack {
   🔗 [Repo](https://github.com/zaehorang/Physicollapse)
 
 **(Team Projects)**  
-- 👀 **COMFIE 컴피** `2024.02 - 진행중`  
+- 🏃 **DoRunDoRun** `2025.08 - 진행중`  
+  : 멀리 있어도 함께 뛴다! 우리만의 러닝 인증, 두런두런!  
+  🔗 [Repo](https://github.com/depromeet/17th-team6-iOS)
+
+- 👀 **COMFIE 컴피** `2025.02 - 2025.08`  
   : 어디서든 솔직하게 쓰고, 감정을 바로 해소해 보세요!  
-  🔗 [Repo](https://github.com/HorangITBeanS/COMFIE-iOS)
+  🔗 [Repo](https://github.com/HorangITBeanS/COMFIE-iOS) & [App Store](https://apps.apple.com/kr/app/comf-e-emoji-locked-journal/id6743163858?l=en-GB)
 
 **(Apple Developer Academy @ POSTECH)**  
 - 📚 **한입독서** (`MacC`)  
