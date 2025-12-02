@@ -20,9 +20,9 @@ VStack {
   🔗 [Repo](https://github.com/zaehorang/Physicollapse)
 
 **(Team Projects)**  
-- 🏃 **DoRunDoRun** `2025.08 - 진행중`  
+- 🏃 **DoRunDoRun** `2025.08 - 2025.11`  
   : 멀리 있어도 함께 뛴다! 우리만의 러닝 인증, 두런두런!  
-  🔗 [Repo](https://github.com/depromeet/17th-team6-iOS)
+  🔗 [Repo](https://github.com/depromeet/17th-team6-iOS) & [App Store](https://apps.apple.com/kr/app/%EB%91%90%EB%9F%B0%EB%91%90%EB%9F%B0/id6755256356?l=en-GB)
 
 - 👀 **COMFIE 컴피** `2025.02 - 2025.08`  
   : 어디서든 솔직하게 쓰고, 감정을 바로 해소해 보세요!  
