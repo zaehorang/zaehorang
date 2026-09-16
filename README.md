@@ -17,20 +17,24 @@ iOS 앱을 만들며 제품 개발 경험을 쌓았고,
 
 ## Projects
 
+### Personal
+
 - 🔄 [SolveSync](https://github.com/zaehorang/SolveSync)  
-  LeetCode·Programmers·SWEA에서 통과한 풀이를 GitHub에 자동 기록하는 Chrome 확장. Public Preview.
+  LeetCode·Programmers·SWEA에서 통과한 풀이를 GitHub에 자동 기록하는 Chrome 확장.
 
 - 🔎 [CorpInsight](https://github.com/zaehorang/corp-insight-langchain)  
   DART 공시와 웹 검색을 모아 출처가 포함된 기업 리서치 보고서를 만드는 LangChain 프로젝트.
 
+### Team
+
 - 🏃 [DoRunDoRun](https://github.com/depromeet/17th-team6-iOS)  
-  멀리 있어도 함께 달리는 러닝 인증 앱 · 팀 프로젝트, iOS 개발.
+  멀리 있어도 함께 달리는 러닝 인증 앱 · iOS 개발.
 
 - 💬 [COMFIE](https://github.com/HorangITBeanS/COMFIE-iOS)  
-  솔직하게 감정을 기록하고 해소하는 일기 앱 · 팀 프로젝트, iOS 개발.
+  솔직하게 감정을 기록하고 해소하는 일기 앱 · iOS 개발.
 
 - 📚 [한입독서](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A6-Five-Guys)  
-  목표일까지 책을 읽도록 하루 독서 분량을 나누는 앱 · 팀 프로젝트, iOS 개발.
+  목표일까지 책을 읽도록 하루 독서 분량을 나누는 앱 · iOS 개발.
 
 ## Learning
 
