@@ -9,7 +9,7 @@ iOS 앱을 만들며 제품 개발 경험을 쌓았고,
 
 ## Agents
 
-- 🧩 [agent-skills](https://github.com/zaehorang/agent-skills)  
+- 🧩 [horang-skills](https://github.com/zaehorang/horang-skills)  
   에이전트와 함께 학습하고, 시스템을 이해하고, 코드를 문서화하기 위한 스킬 모음.
 
 - 🛠️ [herdr-setup](https://github.com/zaehorang/herdr-setup)  
