@@ -23,9 +23,6 @@
 - 🔎 [CorpInsight](https://github.com/zaehorang/corp-insight-langchain)  
   공시와 웹 검색으로 출처가 담긴 기업 리서치 보고서를 만드는 LangChain 프로젝트
 
-- 🧭 SYNAPSE  
-  한입독서 팀의 결정 기록을 찾는 RAG 검색 · MCP로 에이전트와 연결
-
 ## Tools for Agents
 
 - 🧩 [horang-skills](https://github.com/zaehorang/horang-skills)  
