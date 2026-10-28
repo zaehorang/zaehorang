@@ -12,9 +12,9 @@ Started on iOS, now building AI services and backends with coding agents.
 
 ## How I work
 
-- **Find the real problem first.** Users said calculating daily pages was a hassle. Interviews showed the real problem: they made a plan, then forgot it. So the app got reminders, not just a calculator.
-- **Ship, then listen.** After launch, reviews asked to read several books at once. That became the next feature.
-- **Let agents write, let checks decide.** My changes and an agent's go through the same lint, build, and tests before they land.
+- **Find the real problem first.** What people ask for is where I start, not what I build.
+- **Ship, then listen.** A release is where learning starts. Real use decides what comes next.
+- **Let agents write, let checks decide.** Agents bring speed. Trust comes from the checks every change has to pass.
 
 ## Projects
 
@@ -51,7 +51,3 @@ Started on iOS, now building AI services and backends with coding agents.
 - 🏆 **WWDC25 Swift Student Challenge Winner** — [Physicollapse](https://github.com/zaehorang/Physicollapse) · 2025
 - **Apple Developer Academy @ POSTECH** — dev lead on 3 of 4 team projects · 2024.03 ~ 2024.12
 - **University of Seoul** — B.S. in Architectural Engineering · 2026
-
-## Connect
-
-[Blog (Korean)](https://leoios.tistory.com)
