@@ -7,14 +7,14 @@ Started on iOS, now building AI services and backends with coding agents.
 | | |
 |---|---|
 | **Mobile** | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) |
-| **Web** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| **Web** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **AI** | ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
 
 ## How I work
 
-- **Find the real problem first.** What people ask for is where I start, not what I build.
-- **Ship, then listen.** A release is where learning starts. Real use decides what comes next.
-- **Let agents write, let checks decide.** Agents bring speed. Trust comes from the checks every change has to pass.
+- **Find the real problem.** When I run into a problem, I first look for what's really behind it.
+- **Build what I need.** If the tool I need doesn't exist, I make it myself.
+- **Keep getting better at working with AI agents.** I build with them every day and keep asking how to work with them well.
 
 ## Projects
 
